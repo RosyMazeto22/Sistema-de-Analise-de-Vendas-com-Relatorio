@@ -1,0 +1,7 @@
+produto,categoria,quantidade,valor
+Notebook,Eletrônicos,2,3000
+Mouse,Eletrônicos,5,100
+Teclado,Eletrônicos,3,150
+Cadeira,Móveis,1,800
+Mesa,Móveis,1,1200
+Notebook,Eletrônicos,1,3000
